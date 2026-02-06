@@ -733,6 +733,11 @@ nav a:hover {
     margin-bottom: 25px;
   }
   
+  .sobre-img img {
+    width: 100%;
+    margin: 0 auto;
+  }
+  
   .about-features {
     grid-template-columns: repeat(3, 1fr);
     gap: 15px;
